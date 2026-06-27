@@ -1,0 +1,171 @@
+#firstrow{
+   /* margin-top:10% ;*/
+    padding: 0%;
+    margin:0%;
+    margin-left:0% ;
+    margin-right: 0%;
+    margin-bottom:10% ;
+    padding-right: 0%;
+    padding-left: 0%; 
+    background-color: #ff9b19;
+}
+
+
+#logo{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    justify-content: center;
+    align-content: center;
+    align-self: center;
+}
+
+.nav-item{
+padding:3%;
+}
+
+.nav-link{
+    color:white;
+    font-family: serif;
+    font-size: large;
+    text-align: center;
+}
+
+.nav-link:hover{
+    color: #561d03 ;
+}
+
+.nav-link:active{
+    color: #561d03;
+}
+
+
+
+#menu{
+    fill:#ff9b19;
+    background-color: #ff9b19;
+    color:white;
+}
+
+#menu:hover{
+    border-color: #ff9b19;
+}
+
+.btn{
+      border-radius: 50px;
+    color:white;
+    border-color:white;
+    border-width: 40% !important;
+    font-size: medium;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-top:5%;
+}
+
+.btn:hover{
+    color: #561d03;
+    transform:scale(120%);
+border-color: #561d03;
+}
+
+
+
+
+.map-container{
+    position:relative;
+    padding-bottom: 56.25%;
+    height:0;
+    overflow: hidden;
+}
+
+iframe{
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height:50%;
+    border:0;
+}
+
+.container{
+    margin-left:5%;
+    margin-right:5%;
+    margin-bottom:5%;
+}
+
+.container svg{
+    fill:white;
+    background-color: #ff9b19;
+    height: 50px;
+    width:50px;
+    padding:5%;
+    border-radius: 10%;
+    margin-bottom:5%;
+    margin-right:0%;
+}
+
+form .row{
+    row-gap: 5% ;
+
+}
+
+form .form-control{
+    margin-bottom: 5%;
+    border-color: black;
+    border-radius: 50px;
+}
+
+
+.col-md-4 button{
+
+                        margin-top:10%;
+                        margin-left: 0%;
+                        margin-right: 0%;
+                        color:white;
+                        background-color: #ff9b19 ;
+                         padding-left: 10%;
+                         padding-right: 10%;
+                          padding-bottom:5% ;
+                          padding-top: 5%;
+                          border-radius: 50px;
+                         }
+
+.col-md-4 button:hover{
+    transform: scale(150%);
+    background-color: #561d03;
+    color: white;
+}
+
+
+footer{
+    background-color: #561d03;
+    margin:0%;
+    padding:0%;
+}
+
+#foot{
+margin:5%;
+}
+
+h6{
+    color: #ff9b19 ;
+    font-family:serif ;
+    text-align: left;
+}
+
+footer a{
+    
+    color:white;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+footer p{
+    text-align: center;
+    margin:5%;
+    color:white;
+    font-size: small;
+}
+

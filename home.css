@@ -1,0 +1,142 @@
+
+
+.container{
+    padding: 0%;
+    margin:0%;
+
+}
+
+main{
+    background-image: url(photos/4.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat ;
+    background-attachment: fixed ;
+    min-height: 100vh;
+}
+
+
+#logo{
+    width: 50%;
+    height: 50%;
+    border-radius: 50%;
+    justify-content: center;
+    align-content: center;
+    align-self: center;
+    opacity: 100%;
+}
+
+#firstrow{
+    margin-left:0% ;
+    margin-right: 0%;
+    margin-bottom:10% ;
+    padding-bottom: 0.5%;
+    padding-top: 2%;
+    padding-right: 0%;
+    padding-left: 0%; 
+    background-color: black;
+    opacity: 75%;
+}
+
+.nav-item{
+padding:3%;
+}
+
+.nav-link{
+    color:white;
+    font-family: serif;
+    font-size:large;
+    text-align: center;
+}
+
+.nav-link:hover{
+    color: #ff9b19 ;
+}
+
+.nav-link .active{
+    color: #ff9b19 !important;
+}
+
+
+#menu{
+    fill:#ff9b19;
+    background-color: #ff9b19;
+    color:white;
+}
+
+#menu:hover{
+    border-color: #ff9b19;
+}
+
+
+
+.btn{
+     border-radius: 50px;
+    color:#ff9b19;
+    border-color: #ff9b19;
+    font-weight: bold;
+    font-size: medium;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+    padding-top: 5%;
+    margin-top:5%;
+}
+
+.btn:hover{
+    color: white ;
+    transform:scale(120%);
+border-color: white;
+}
+
+
+#name{
+    color: #ff9b19 ;
+    font-family:serif ;
+    text-align: center;
+    font-weight: bold;
+}
+ 
+h1{
+    color:white;
+    text-align: center;
+font-weight: bold;
+}
+
+p{
+     color:white;
+     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+footer{
+    background-color: #561d03;
+    margin:0%;
+    padding:0%;
+}
+
+#foot{
+margin:5%;
+}
+
+h6{
+    color: #ff9b19 ;
+    font-family:serif ;
+    text-align: left;
+}
+
+footer a{
+    
+    color:white;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+p{
+    text-align: center;
+    margin:5%;
+    color:white;
+    font-size: small;
+}
